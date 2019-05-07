@@ -1,0 +1,1 @@
+HDLC.o: ../HDLC.c
